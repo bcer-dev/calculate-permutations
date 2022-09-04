@@ -1,8 +1,10 @@
 # Calculate Permutations
 An implementation of
+
 $$
-nPr = \frac{n!}{(n - r)!}
+  nPr = \frac{n!}{(n - r)!}
 $$
+
 using the C programming language.
 
 ## How it works
